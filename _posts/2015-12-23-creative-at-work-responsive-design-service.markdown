@@ -2,7 +2,6 @@
 published: true
 title: Creative At Work | Responsive design service
 layout: post
-permalink: http://creativeatwork.net
 ---
 We are a creative agency and love what we do, we currently offer very affordable package, if you need responsive design, visit our website at <a href="http://creativeatwork.net/responsive-website-design/">Creative At Work</a>
 
